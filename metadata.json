@@ -1,0 +1,8 @@
+{
+  "name": "MediMind Pro",
+  "description": "An AI-powered health assistant to analyze symptoms, get information on medicines, review medical reports, find nearby facilities, and get emergency aid guidance.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
